@@ -1,0 +1,12 @@
+{
+  "name": "fittrack",
+  "displayName": "FitTrack",
+  "version": "1.0.0",
+  "description": "FitTrack integration: log meals, track daily calories and macros, check workout volume, and inspect fitness targets.",
+  "logo": "assets/logo.png",
+  "suggestedPrompts": [
+    "What did I eat today and how are my macros looking?",
+    "What are my current fitness targets and goal bodyweight?",
+    "Give me an AI coach review of my nutrition and workouts this week"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "fittrack": {
+      "command": "node",
+      "args": [
+        "bridge.js"
+      ]
+    }
+  }
+}

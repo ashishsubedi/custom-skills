@@ -1,0 +1,11 @@
+{
+  "name": "logseq_memory",
+  "displayName": "Logseq Agent Memory",
+  "version": "2.1.0",
+  "description": "Human-first agent memory, task dispatcher, and cross-harness control center in Logseq 2.0.",
+  "suggestedPrompts": [
+    "Scan Logseq for open tasks and let me pick which one to execute",
+    "Sync active branch narrative and daily journal pulse to Logseq",
+    "Show active agent tasks in Agent Command Center"
+  ]
+}

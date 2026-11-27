@@ -1,0 +1,25 @@
+{
+  "name": "deepseek-vis",
+  "version": "1.0.0",
+  "description": "Vision processing bridge for text-only models (ASCII layout & OCR)",
+  "main": "src/main.py",
+  "bin": {
+    "deepseek-vis": "bin/deepseek-vis"
+  },
+  "scripts": {
+    "test": "python3 -m unittest discover tests"
+  },
+  "keywords": [
+    "agent-skills",
+    "deepseek",
+    "vision",
+    "ascii-art",
+    "ocr",
+    "opencode",
+    "pi",
+    "claude",
+    "antigravity"
+  ],
+  "author": "Ashish Subedi",
+  "license": "MIT"
+}
